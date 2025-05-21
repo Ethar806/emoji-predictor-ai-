@@ -1,2 +1,2 @@
 # emoji-predictor-ai-
-AI project that predicts emojis from text
+This is an AI project built using TensorFlow that predicts the most relevant emoji based on user input. It was trained on short emotional phrases and deployed using Gradio as a web app. Try it out using the Gradio link or watch the demo video on YouTube."
